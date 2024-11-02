@@ -22,8 +22,20 @@ I wanted something unique for the frame, and the idea of a DIY belt-driven [Prus
 
 It's turned out quite well, especially given how much I played with dimensions while working. For example (tangent time), while on XY joint revision 2.1, I realized that I didn't have anywhere near enough space. (of course, i had just under 20mm to work with, per XY joint, I had to add another 20mm to the width, making the interior extrusion-to-extrusion width go from 390mm to 400. (tangent over)
 
-My personal favorite part of the frame is the electronics enclosure. Given the that is a more standard Core-XY design than a 2.4, more Trident-like, just minues the three lead screws, and some positioning changes, the space behind the bed was completely useless. The space was just used by the X-axis and the 30mm+ between back of the extrusion and center of the nozzle, as well as the drive units. That was some 60-70 **check actual dimension** mm wasted space, and adding the full thickness of an electronics backpack just seemed stupid. So, instead the entire space underneath the rear of the X-axis and drive units was converted to electronics bay space.
+My personal favorite part of the frame is the electronics enclosure. Given the that is a more standard Core-XY design than a 2.4, more Trident-like, just minus the three lead screws, and some positioning changes, the space behind the bed was completely useless. The space was just used by the X-axis and the 30mm+ between back of the extrusion and center of the nozzle, as well as the drive units. That was some 60-70 **check actual dimension** mm wasted space, and adding the full thickness of an electronics backpack just seemed stupid. So, instead the entire space underneath the rear of the X-axis and drive units was converted to electronics bay space.
 
 **[insert side profile here]**
 
 It also gives it a more interesting side profile, as shown above, and lowers the depth of the printer, and the ratio of how far forward the bed is to how much space is behind, which I personally find very important. (in case you haven't noticed by now, many decisions made were for aesthetic reasons, because of course they were.) 
+
+The one downside I can currently find is that the DIN rails (which all the expensive electronics and power supplies are mounted to) are mounted directly to the 3mm acrylc, with no other mounting available. (the sheer amound of space needed to cram in a 2020 extrusion and step-adaptor so my panels stay flush isn't viable, for now). I'll update this once Starlight is built and tested.
+
+---
+
+# Bed/Z-axis
+
+I'll turn this one into a double, because they go hand-in-hand anyways. In case you didn't already know, Starlight uses a run-of-the-mill 300mm Voron 2.4 bed. Why? Because they're relatively cheap, and I don't have to design/make it myself, and they're already easy to work with.
+
+Starting with the Z-axis portion of this, Starlight runs quad linear rails- 2 on each side, spaced some 60mm apart. In between the two rails is a 9mm GT2 belt, spaced more towards the rear rail. (*Why use a 2 sided, belt driven approach?*, you ask. And to that, I say, check the section on the frame. The Prusa XL styling makes the front corner movement a non-option (told you aesthetics defined some major decisions), and i felt that having rear movement would be uneccesary.)
+
+The belt driven portion is due to my overblown and phobia-like fear of Z-wobble. I don't care what or why it won't affect me, I'm going with belt driven. Looks better, and allows for faster Z travel.
