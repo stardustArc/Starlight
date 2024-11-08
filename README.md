@@ -1,4 +1,7 @@
 # Starlight
+### Notice: Repo is currently public, but a work in progress until further notice.
+---
+
 CoreXY 3D Printer heavily inspired by the Voron Project and using the Reaper toolhead
 
 MOST RECENT VERSION: V1.0.1
