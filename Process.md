@@ -26,7 +26,7 @@ My personal favorite part of the frame is the electronics enclosure. Given the t
 
 **[insert side profile here]**
 
-It also gives it a more interesting side profile, as shown above, and lowers the depth of the printer, and the ratio of how far forward the bed is to how much space is behind, which I personally find very important. (in case you haven't noticed by now, many decisions made were for aesthetic reasons, because of course they were. the most important part of a printer is aesthetics, after all.) 
+It also gives it a more interesting side profile, as shown above, and lowers the depth of the printer, and the ratio of how far forward the bed is to how much space is behind, which I personally find very important. (in case you haven't noticed by now, many decisions made were for aesthetic reasons, because of course they were. the most important part of a printer is aesthetics, after all. If a printer functions well but looks like it crawled out of the design lab that produced the Nissan Cube, it's a terrible printer. If it looks amazing, but functions as well as an unmodified, untuned original Ender 3, it's mediocre. If it functions well and looks like someone blessed with good design skills made it, it's an amazing printer.) 
 
 The one downside I can currently find is that the DIN rails (which all the expensive electronics and power supplies are mounted to) are mounted directly to the 3mm acrylc, with no other mounting available. (the sheer amound of space needed to cram in a 2020 extrusion and step-adaptor so my panels stay flush isn't viable, for now). I'll update this once Starlight is built and tested.
 
